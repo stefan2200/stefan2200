@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi
 
-<!--
-**stefan2200/stefan2200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Stefan, A security enthusiast and Python developer.
 
-Here are some ideas to get you started:
+- 🔭 Part of [SecuraBV](https://github.com/SecuraBV/)
+- Likes web application testing, Android security and Python development
+- Python, PHP, [A-Z]+SQL, .NET, c++, Go, Java, Perl, anything *nix related and basic web development **(bootstrap yayy)**
+- *Probably forgot a lot in the list above*
+- 🌱 I’m currently learning Dart and React
+- 📫 Feel free to hmu on Discord: TR=VR#0602 or connect on [LinkedIn](https://www.linkedin.com/in/stefan-vlems-802944121/)
+- ⚡ Fun fact: I probably have more birds than you do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Enjoy your day!
