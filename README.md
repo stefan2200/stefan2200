@@ -2,7 +2,7 @@
 
 I'm Stefan, A security enthusiast and Python developer.
 
-- 🔭 Part of [SecuraBV](https://github.com/SecuraBV/)
+- 🔭 Part of [Bureau Veritas Cybersecurity](https://cybersecurity.bureauveritas.com/)
 - Likes web application testing, Android security and Python development
 - Python, PHP, [A-Z]+SQL, .NET, c++, Go, Java, Perl, anything *nix related and basic web development **(bootstrap yayy)**
 - *Probably forgot a lot in the list above*
